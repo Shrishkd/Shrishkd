@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Shrish
-- 👀 I’m interested in AI and Development 
-- 🌱 I’m currently a Student 
-- 💞️ I’m looking for great opportunities 
+- 👋 Hola , I’m Shrish
 - 📫 How to reach me shrishdas444@gmail.com
-- ⚡ Fun fact: Neither AI or Nuke is dangerous, but AI with Nuke is real beast 
+- ⚡ Fun fact: Neither AI or Nuke is dangerous, but AI with Nuke acess is real shit.
 
 <!---
 Shrishkd/Shrishkd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
