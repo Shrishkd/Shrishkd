@@ -14,7 +14,10 @@
 <br/>
   <a href="https://linkedin.com/in/shrish-das-44ba5a27b" target="_blank"> <img  alt="linkedin" src="assets/linkedin.svg" /></a>
   &nbsp;
+  <a href="https://www.instagram.com/falanaa_dhimkaana"  target="_blank"> <img alt="kaggle" src="assets/instagram.svg" /></a>
+  &nbsp;
   <a href='https://kaggle.com/shrishd'  target="_blank"> <img alt="kaggle" src="assets/kaggle.svg" /></a>
+
 </h2>
 
 
@@ -142,5 +145,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Shrishkd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <!--<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />-->
 
