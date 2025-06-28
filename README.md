@@ -1,6 +1,17 @@
+![MasterHead](oleg-klishin-illustration1-x4.gif)
 
-<h1 align="center">Hey, there! 👋🏻 I am Shrish</h1>
-<h3 align="center">ML , Full Stack Developer</h3>
+<!--<p align="center">
+  <a href="https://github.com/YourUsername">
+    <img src="oleg-klishin-illustration1-x4.gif" alt="MasterHead" width="100%" height="500" />
+  </a>
+</p>-->
+
+<img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="2025-06-28-Hey-I-am-Shrish.gif">
+
+<h1 align="center">ML , Full Stack Developer</h1>
+
+<hr>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishkd&label=Profile%20views&color=0e75b6&style=flat" alt="shrishkd" /> </p>
