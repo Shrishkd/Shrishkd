@@ -33,7 +33,13 @@
 
 - ⚡ Fun fact **Little bit Krewzzyyy :D**
 
- <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrishkd" alt="shrishkd" /></a> </p>--> NO FROM HERE TO
+
+
+
+
+
+
+ <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrishkd" alt="shrishkd" /></a> </p> NO FROM HERE TO
 
 <!--<h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -49,7 +55,15 @@
   <a href="https://auth.geeksforgeeks.org/user/shrishdh212" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="50" width="50" style="margin: 10px; box-shadow: 0 0 8px rgba(0,0,0,0.1); border-radius: 10px;" />
   </a>
-</p>--> NO TO HERE
+</p> NO TO HERE--> 
+
+
+
+
+
+
+
+
 
 <!--<h2 align="left">Languages and Tools:</h2>
 <p align="left">
@@ -113,6 +127,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shrishkd&icon=0&color=0)](https://visitcount.itsvg.in)-->
+
+
+
+
 
   <!--<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />--> NO 
 
