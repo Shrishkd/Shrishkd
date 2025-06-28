@@ -1,4 +1,4 @@
-<!-- ![MasterHead](assets/oleg-klishin-illustration1-x4.gif) 
+![MasterHead](assets/oleg-klishin-illustration1-x4.gif) 
 
 <img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="assets/2025-06-28-Hey-I-am-Shrish.gif">
 
@@ -65,7 +65,7 @@
 
 
 
-<!--<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="margin: 10px;" />
@@ -126,7 +126,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Shrishkd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-[![](https://visitcount.itsvg.in/api?id=Shrishkd&icon=0&color=0)](https://visitcount.itsvg.in) --->
+[![](https://visitcount.itsvg.in/api?id=Shrishkd&icon=0&color=0)](https://visitcount.itsvg.in) 
 
 
 
