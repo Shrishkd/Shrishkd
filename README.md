@@ -8,10 +8,16 @@
 
 <img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="assets/2025-06-28-Hey-I-am-Shrish.gif">
 
-<h1 align="center">ML & Full Stack Developer</h1>
-<a href="https://linkedin.com/in/shrish-das-44ba5a27b" target="_blank"> <img align='left' alt="linkedin" src="assets/linkedin.svg" height='18px'/></a>
 
-<hr>
+<h2 align="center"> Machine Learning Engineer and Full-Stack Developer
+<br/>
+<br/>
+  <a href="https://linkedin.com/in/shrish-das-44ba5a27b" target="_blank"> <img  alt="linkedin" src="assets/linkedin.svg" /></a>
+  &nbsp;
+  <a href='https://kaggle.com/shrishd'  target="_blank"> <img alt="kaggle" src="assets/kaggle.svg" /></a>
+</h2>
+
+
 
 <img align="right" alt="Coding" width="300" height="300" src="assets/shrish img.png">
 
