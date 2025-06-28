@@ -30,7 +30,7 @@
 
 - ⚡ Fun fact **Little bit Krewzzyyy :D**
 
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrishkd" alt="shrishkd" /></a> </p>
+ <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrishkd" alt="shrishkd" /></a> </p>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
