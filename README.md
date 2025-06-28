@@ -22,7 +22,7 @@
 
 
 
-<img align="right" alt="Coding" width="300" height="300" src="assets/shrish img.png">
+<img align="right" alt="Coding" width="275" height="275" src="assets/shrish img.png">
 
 
 - 🔭 I’m currently working on [E-commerce Site](available_soon)
