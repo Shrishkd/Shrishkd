@@ -1,12 +1,7 @@
-![MasterHead](assets/oleg-klishin-illustration1-x4.gif)
+<!-- ![MasterHead](assets/oleg-klishin-illustration1-x4.gif) 
 
-<!--<p align="center">
-  <a href="https://github.com/YourUsername">
-    <img src="oleg-klishin-illustration1-x4.gif" alt="MasterHead" width="100%" height="500" />
-  </a>
-</p>-->
 
-<img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="assets/2025-06-28-Hey-I-am-Shrish.gif">
+<!--<img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="assets/2025-06-28-Hey-I-am-Shrish.gif">
 
 
 <h2 align="center"> Machine Learning Engineer and Full-Stack Developer
@@ -39,7 +34,7 @@
 
 - ⚡ Fun fact **Little bit Krewzzyyy :D**
 
- <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrishkd" alt="shrishkd" /></a> </p>-->
+ <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrishkd" alt="shrishkd" /></a> </p>--> NO FROM HERE TO
 
 <!--<h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -55,9 +50,9 @@
   <a href="https://auth.geeksforgeeks.org/user/shrishdh212" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="50" width="50" style="margin: 10px; box-shadow: 0 0 8px rgba(0,0,0,0.1); border-radius: 10px;" />
   </a>
-</p>-->
+</p>--> NO TO HERE
 
-<h2 align="left">Languages and Tools:</h2>
+<!--<h2 align="left">Languages and Tools:</h2>
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50" style="margin: 10px;" />
@@ -118,7 +113,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Shrishkd&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shrishkd&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shrishkd&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
-  <!--<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />-->
+  <!--<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />--> NO 
 
