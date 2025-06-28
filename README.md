@@ -1,9 +1,9 @@
+
 <h1 align="center">Hey, there! 👋🏻 I am Shrish</h1>
 <h3 align="center">ML , Full Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishkd&label=Profile%20views&color=0e75b6&style=flat" alt="shrishkd" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrishkd" alt="shrishkd" /></a> </p>
 
 - 🔭 I’m currently working on [E-commerce Site](available_soon)
 
@@ -18,6 +18,8 @@
 - 📄 Know about my experiences [available_soon](available_soon)
 
 - ⚡ Fun fact **Little bit Krewzzyyy :D**
+
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrishkd" alt="shrishkd" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,3 +39,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrishkd&show_icons=true&locale=en&layout=compact" alt="shrishkd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrishkd&show_icons=true&locale=en" alt="shrishkd" /></p>
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
