@@ -6,7 +6,7 @@
   </a>
 </p>-->
 
-<img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="2025-06-28-Hey-I-am-Shrish.gif">
+<img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="assets/2025-06-28-Hey-I-am-Shrish.gif">
 
 <h1 align="center">ML & Full Stack Developer</h1>
 
