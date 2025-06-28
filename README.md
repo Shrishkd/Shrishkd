@@ -9,10 +9,11 @@
 <img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="assets/2025-06-28-Hey-I-am-Shrish.gif">
 
 <h1 align="center">ML & Full Stack Developer</h1>
+<a href="https://linkedin.com/in/shrish-das-44ba5a27b" target="_blank"> <img align='left' alt="linkedin" src="assets/linkedin.svg" height='18px'/></a>
 
 <hr>
 
-<img align="right" alt="Coding" width="300" height="300" src="shrish img.png">
+<img align="right" alt="Coding" width="300" height="300" src="assets/shrish img.png">
 
 
 - 🔭 I’m currently working on [E-commerce Site](available_soon)
