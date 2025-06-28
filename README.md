@@ -13,9 +13,7 @@
 <br/>
 <br/>
   <a href="https://linkedin.com/in/shrish-das-44ba5a27b" target="_blank"> <img  alt="linkedin" src="assets/linkedin.svg" /></a>
-  &nbsp;
-  <a href="https://www.instagram.com/falanaa_dhimkaana"  target="_blank"> <img alt="instagram" src="assets/instagram.svg" /></a>
-  &nbsp;
+  &nbsp; &nbsp; 
   <a href='https://kaggle.com/shrishd'  target="_blank"> <img alt="kaggle" src="assets/kaggle.svg" /></a>
 
 </h2>
@@ -67,12 +65,6 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50" style="margin: 10px;" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50" style="margin: 10px;" />
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="margin: 10px;" />
