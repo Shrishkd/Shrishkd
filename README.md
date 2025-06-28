@@ -8,11 +8,11 @@
 
 <img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="2025-06-28-Hey-I-am-Shrish.gif">
 
-<h1 align="center">ML , Full Stack Developer</h1>
+<h1 align="center">ML & Full Stack Developer</h1>
 
 <hr>
 
-<img align="right" alt="Coding" width="400" height="400" src="shrish img.png">
+<img align="right" alt="Coding" width="300" height="300" src="shrish img.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishkd&label=Profile%20views&color=0e75b6&style=flat" alt="shrishkd" /> </p>
 
