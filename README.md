@@ -1,4 +1,4 @@
-![MasterHead](oleg-klishin-illustration1-x4.gif)
+![MasterHead](assets/oleg-klishin-illustration1-x4.gif)
 
 <!--<p align="center">
   <a href="https://github.com/YourUsername">
