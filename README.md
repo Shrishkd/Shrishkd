@@ -1,9 +1,6 @@
 ![MasterHead](assets/oleg-klishin-illustration1-x4.gif) 
 
-<img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="assets/2025-06-28-Hey-I-am-Shrish.gif">
-
-
-<h2 align="center"> Machine Learning Engineer and Full-Stack Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Handwritten&weight=500&size=45&pause=1000&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Shrish;Machine+Learning+Engineer+and+;Full-Stack+Developer.)](https://git.io/typing-svg)
 <br/>
 <br/>
   <a href="https://linkedin.com/in/shrish-das-44ba5a27b" target="_blank"> <img  alt="linkedin" src="assets/linkedin.svg" /></a>
@@ -31,7 +28,7 @@
 
 - 📄 Know about my experiences [available_soon](available_soon)
 
-- ⚡ Fun fact **Little bit Krewzzyyy :D**-->
+- ⚡ Fun fact **Little bit Krewzzyyy :D**
 
 
 
