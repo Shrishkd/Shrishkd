@@ -1,8 +1,9 @@
 ![MasterHead](assets/oleg-klishin-illustration1-x4.gif) 
 
-<img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="2025-06-28-Hey-I-am-Shrish.gif">
+<img align="center" alt="Hey, I am Shrish" width="100%"  height="200" src="assets/2025-06-28-Hey-I-am-Shrish.gif">
 
-<h1 align="center">ML & Full Stack Developer</h1>
+
+<h2 align="center"> Machine Learning Engineer and Full-Stack Developer
 <br/>
 <br/>
   <a href="https://linkedin.com/in/shrish-das-44ba5a27b" target="_blank"> <img  alt="linkedin" src="assets/linkedin.svg" /></a>
