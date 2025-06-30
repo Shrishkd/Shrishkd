@@ -8,7 +8,7 @@
 <br/>
   <a href="https://linkedin.com/in/shrish-das-44ba5a27b" target="_blank"> <img  alt="linkedin" src="assets/linkedin.svg" /></a>
   &nbsp; 
-  <a href="https://x.com/Rounakarn?t=VH6gSa_VL9wlvngS47alQg&s=09" target="_blank"> <img  alt="X" src="assets/twitter.svg" /></a>
+  <a href="https://x.com/Shrish_Dass?t=VH6gSa_VL9wlvngS47alQg&s=09" target="_blank"> <img  alt="X" src="assets/twitter.svg" /></a>
   &nbsp; 
   <a href='https://kaggle.com/shrishd'  target="_blank"> <img alt="kaggle" src="assets/kaggle.svg" /></a>
 
