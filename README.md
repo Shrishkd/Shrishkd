@@ -19,7 +19,7 @@
 <img align="right" alt="Coding" width="275" height="275" src="assets/shrish img.png">
 
 
-- 🔭 I’m currently working on [E-commerce Site](available_soon)
+- 🔭 I’m currently working on [Training ML Model for stock market](available_soon)
 
 - 🌱 I’m currently learning **Machine Learning**
 
