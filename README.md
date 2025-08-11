@@ -23,13 +23,13 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [available_soon](available_soon)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-1u8z.onrender.com/)
 
 - 💬 Ask me about **Tech and Gaming**
 
 - 📫 How to reach me **shrishdas444@gmail.com**
 
-- 📄 Know about my experiences [available_soon](available_soon)
+- 📄 Know about my experiences [My Portfolio](https://portfolio-1u8z.onrender.com/)
 
 - ⚡ Fun fact **Little bit Krewzzyyy :D**
 
