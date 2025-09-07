@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **shrishdas444@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://portfolio-1u8z.onrender.com/)
+- 📄 Know about my experiences [My Portfolio](https://shrish-portfolio.netlify.app/)
 
 - ⚡ Fun fact **Little bit Krewzzyyy :D**
 
