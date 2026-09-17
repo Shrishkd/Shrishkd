@@ -8,7 +8,7 @@
 
 Once you see something that really inspires you, it can come across as a dream or something unachievable.
 
-Don't worry, you can make that thing too. It'll just take sometime. The hardest part is rarely the skill itself, it's not knowing where to start. Break the thing down, build a plan, and follow it one step at a time. That's exactly how I approach learning: pick something that excites me, reverse-engineer how it works, and turn it into a roadmap I can actually execute.  
+Don't worry, you can make that thing too. It'll just take sometime. The biggest issue is not knowing the path or where to take the first step. Break the thing down, build a plan, and follow it one step at a time. That's exactly how I approach learning: pick something that excites me, reverse-engineer how it works, and turn it into a roadmap I can actually execute.  
 
 Soon, you will be able to make the website you want!!! Just believe in yourself and stick to the plan! You got this   !!! I was very very slow and confused when I first started programming. If you're a newer programmer, the only difference between me and you is time!
 
@@ -78,6 +78,6 @@ Soon, you will be able to make the website you want!!! Just believe in yourself 
 
 <div align="center">
 
-![Footer wave animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+![Footer](assets/footer-commit-graph.svg)
 
 </div>
