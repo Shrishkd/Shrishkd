@@ -1,161 +1,83 @@
-![MasterHead](assets/oleg-klishin-illustration1-x4.gif)
+<div align="center">
 
-<img align="center" alt="Hey, I am Shrish" width="100%" height="200" src="assets/2025-06-28-Hey-I-am-Shrish.gif">
+![MastHead](assets/oleg-klishin-illustration1-x4.gif)
 
-<h1 align="center">Hi 👋, I'm Shrish Das</h1>
+</div>
 
-<h3 align="center">
-AI & ML Engineer • Full-Stack Developer • AWS Certified
-</h3>
+<img align="right" alt="Coding" width="280" src="assets/shrish_img.jpeg">
 
-<p align="center">
-Building intelligent products using AI, Machine Learning, Cloud, and Modern Web Technologies.
-</p>
+Once you see something that really inspires you, it can come across as a dream or something unachievable.
 
-<p align="center">
-  <a href="https://linkedin.com/in/shrish-das-44ba5a27b">
-    <img src="assets/linkedin.svg" alt="linkedin" />
+Don't worry, you can make that thing too. It'll just take sometime. The hardest part is rarely the skill itself, it's not knowing where to start. Break the thing down, build a plan, and follow it one step at a time. That's exactly how I approach learning: pick something that excites me, reverse-engineer how it works, and turn it into a roadmap I can actually execute.  
+
+Soon, you will be able to make the website you want!!! Just believe in yourself and stick to the plan! You got this   !!! I was very very slow and confused when I first started programming. If you're a newer programmer, the only difference between me and you is time!
+
+<br clear="right"/>
+
+---
+
+### Tech Stack
+
+**Languages**
+`Python` `C++` `JavaScript` `TypeScript` `SQL` `NoSQL`
+
+**Frontend**
+`React` `Next.js` `HTML5` `TailwindCSS` `React Native`
+
+**Backend & APIs**
+`Node.js` `Express.js` `FastAPI` `Flask` `REST APIs` `WebSockets` `Webhooks`
+
+**Mobile**
+`iOS` `Android` `React Native`
+
+**Databases & Storage**
+`PostgreSQL` `MySQL` `MongoDB` `Supabase` `Redis`
+
+**AI / ML / GenAI**
+`Machine Learning` `Deep Learning` `TensorFlow` `PyTorch` `LLMs` `RAG` `AI Agents` `LangChain` `LangGraph` `Hugging Face` `DeepEval` `MLOps` `MLflow`
+
+**Data Analysis**
+`NumPy` `Pandas` `Matplotlib` `Seaborn` `Tableau`
+
+**Automation & Scraping**
+`n8n` `PyAutoGUI` `BeautifulSoup` `Web Scraping` `Workflow Automation`
+
+**DevOps & Cloud**
+`Docker` `AWS` `Vercel` `CI/CD` `GitHub Actions` `Git`
+
+---
+
+### Certifications
+
+| Certification | Issuer |
+|---|---|
+| AWS Certified Solutions Architect – Associate (SAA-C03) | AWS |
+| AWS Certified Machine Learning Engineer | AWS |
+| AWS Certified AI Practitioner | AWS |
+| OCI Generative AI Professional | Oracle |
+
+---
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/shrish-das-44ba5a27b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://x.com/Shrish_Dass?t=VH6gSa_VL9wlvngS47alQg&s=09">
-    <img src="assets/twitter.svg" alt="twitter" />
+  <a href="mailto:shrishdas444@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://kaggle.com/shrishd">
-    <img src="assets/kaggle.svg" alt="kaggle" />
+  <a href="https://shrishcraft.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-<img align="right" alt="Coding" width="280" src="assets/shrish img.png">
+<div align="center">
 
-## 👨‍💻 About Me
+![Footer wave animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
 
-🎓 B.Tech CSE (AI & ML) @ VIT Bhopal University
-
-📈 CGPA: **8.6/10**
-
-🔭 Currently building **AI-powered applications and Stock Market Analytics Systems**
-
-🌱 Learning **Advanced Machine Learning, MLOps, AWS & System Design**
-
-💡 Interested in **Artificial Intelligence, Data Science, Full Stack Development, Cloud Computing**
-
-🏆 AWS Certified Solution Architect Associate
-
-🏆 Deloitte Hacksplosion 2025 Semi-Finalist
-
-🏆 Economic Times Gen AI Hackathon Semi-Finalist
-
-📫 Contact: **shrishdas444@gmail.com**
-
-🌐 Portfolio:
-https://shrish-portfolio.netlify.app
-
-⚡ Fun Fact:
-**Turning coffee into code since 2023 ☕**
-
----
-
-# 🚀 Featured Projects
-
-### 📊 Bullseye — Stock Market Analytics Platform
-
-- Real-time NSE market tracking
-- WebSocket streaming
-- XGBoost + LSTM prediction models
-- Portfolio analysis
-- News sentiment analysis
-- AI-powered stock assistant
-
-**Tech:** React, Flask, XGBoost, LSTM, Gemini, WebSocket
-
----
-
-### 🎤 Career Mentor — AI Mock Interview Platform
-
-- OpenAI Whisper speech-to-text
-- Resume-aware answer evaluation
-- YOLOv8 object detection
-- MediaPipe gesture tracking
-- Automated PDF feedback reports
-
-**Tech:** Flask, Gemini API, Whisper, OpenCV, YOLOv8
-
----
-
-### 👥 CrowdSense — Smart Density Estimator
-
-- YOLOv8 crowd detection
-- Gaussian Heatmaps
-- Occupancy classification
-- Real-time CCTV analytics
-
-**Tech:** Python, OpenCV, NumPy, YOLOv8
-
-
----
-
-# 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nextjs,nodejs,express,flask,fastapi,tailwind,mongodb,mysql,postgres,docker,aws,git,github,tensorflow,pytorch,vscode" />
-</p>
-
----
-
-
-
-# 🏆 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/shrishd/">
-<img src="https://leetcard.jacoblin.cool/shrishd?theme=dark&font=Karma&ext=contest"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=shrishdh212&theme=dark" />
-
-</p>
-
----
-
-
-# 🏅 Certifications
-
-☁️ AWS Certified Solution Architect Associate (SAA-C03)
-
-☁️ OCI Data Science Professional
-
-☁️ OCI Generative AI Professional
-
-
----
-
-# 🎖️ Achievements
-
-🥇 Gold Medalist – SOF National Science Olympiad
-
-🌍 International Rank 4726
-
-🏅 Zonal Rank 1
-
-🏆 Deloitte Hacksplosion 2025 Semi-Finalist
-
-🏆 Economic Times Gen AI Hackathon 2025 Semi-Finalist
-
-🤖 Event Management Head – Robotics Club
-
-💻 Solved 250+ DSA Problems
-
----
-
-
-<h3 align="center">
-🚀 Building AI Products | Solving Problems | Learning Every Day
-</h3>
+</div>
