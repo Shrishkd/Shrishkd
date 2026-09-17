@@ -59,6 +59,7 @@ Keep dreaming! Keep Building! Keep Learning!! :)
 | AWS Certified Machine Learning Engineer | AWS |
 | AWS Certified AI Practitioner | AWS |
 | OCI Generative AI Professional | Oracle |
+| OCI Generative Agentic AI | Oracle |
 
 ---
 
