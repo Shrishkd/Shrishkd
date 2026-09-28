@@ -12,7 +12,7 @@ Don't worry, you can make that thing too. It'll just take sometime. The biggest 
 
 Break the thing down, build a plan, and follow it one step at a time. That's exactly how I approach learning: pick something that excites me, reverse-engineer how it works, and turn it into a roadmap I can actually execute.  
 
-Soon, you will be able to make the website you want!!! Just believe in yourself and stick to the plan! You got this   !!! I was very very slow and confused when I first started programming. If you're a newer programmer, the only difference between me and you is time!
+Soon, you will be able to make the things you want!!! Just believe in yourself and stick to the plan! You got this   !!! I was very very slow and confused when I first started programming. If you're a newer programmer, the only difference between me and you is time!
 
 Keep dreaming! Keep Building! Keep Learning!! :)
 
